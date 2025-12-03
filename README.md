@@ -168,15 +168,3 @@ This repository showcases:
 ✅ Clear structure & clean documentation
 
 ---
-
-## 🏷 License
-
-This repository is open for **educational and portfolio purposes**.
-Feel free to **fork**, **modify**, and **reuse** the workflows for personal learning or inspiration.
-
----
-
-### 🌟 Author
-
-**Yamin Hossain**
-📧 [LinkedIn](https://www.linkedin.com/in/yamin-hossain-38a3b3263/) | 💻 [GitHub](https://github.com/RobinMillford)
